@@ -82,6 +82,11 @@ Would you like any modifications (e.g., adding more config options, security not
 <img width="1285" height="915" alt="image" src="https://github.com/user-attachments/assets/df223f3c-8db9-4e2d-bc4b-0b6e495a78df" />
 
 
+
+https://github.com/user-attachments/assets/6fb001ea-cc54-46e6-b2f8-8bfde50dfa6b
+
+
+
 ## 💼 Contact Me for Paid Projects
 
 Have a project in mind or need expert help? I'm available for **freelance work and paid collaborations**. Let's bring your ideas to life with clean code and creative solutions.
