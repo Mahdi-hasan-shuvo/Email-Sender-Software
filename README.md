@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/6fb001ea-cc54-46e6-b2f8-8bfde50dfa6b
 Have a project in mind or need expert help? I'm available for **freelance work and paid collaborations**. Let's bring your ideas to life with clean code and creative solutions.
 
 📩 **Email**: [shuvobbhh@gmail.com]  
-💬 **Telegram / WhatsApp**: [+8801616397082]  
+💬 ** WhatsApp**: [+8801616397082]  
 🌐 **Portfolio / Website**: [[Portfolio](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)]
 
 > *"Quality work speaks louder than words. Let's build something remarkable together."*
