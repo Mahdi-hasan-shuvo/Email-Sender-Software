@@ -1,5 +1,5 @@
 # **📧 Email Sender Software**  
-
+  
  
 A lightweight yet powerful bulk email sender tool designed for automated email campaigns with account rotation, multi-threading, and progress tracking.  
 
